@@ -14,7 +14,7 @@
 5. Api Gateway Proxt: Netflix Zull Routing.
 
 
-![Alt](arquitetura-microservices.svg){:height="700px" width="400px"}
+![Alt](arquitetura-microservices.svg)
 
  
 
